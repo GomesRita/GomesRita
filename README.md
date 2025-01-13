@@ -6,7 +6,6 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GomesRita&theme=buefy&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=800&type=png)](https://git.io/streak-stats)
     
 ### Frameworks 
 *Ambientes de desenvolvimento que utilizo nas minhas aplicações* 
@@ -30,7 +29,7 @@
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/GomesRita?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&format=svg&weeks=30&theme=purple&dark=true) 
+
 
 </div>
 
